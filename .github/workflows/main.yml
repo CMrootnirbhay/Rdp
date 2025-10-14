@@ -1,10 +1,10 @@
-name: nirbhay-rdp
+name: RDP
 
 on:
   workflow_dispatch:
 
 jobs:
-  Nirbhay:
+  RDP:
     runs-on: windows-latest
     timeout-minutes: 10080
 
